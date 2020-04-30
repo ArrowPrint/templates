@@ -1,6 +1,9 @@
 ---
 date_added: 2020-04-27
 title: Wipro Garnet 9W 810lm 
+category: light
+type: Light
+standard: in
 model: NS9001
 type: RGBCCT
 category: bulb
